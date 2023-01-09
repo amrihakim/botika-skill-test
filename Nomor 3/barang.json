@@ -1,0 +1,12 @@
+
+ {
+
+    "data" :[
+          {"no_nota":1034, "nm_barang":"jaket", "harga":549000,"jumlah":2,"total":1098000},
+          {"no_nota":1046, "nm_barang":"celana", "harga":250000,"jumlah":1,"total":250000},
+          {"no_nota":1187, "nm_barang":"tas", "harga":300000,"jumlah":4,"total":12000000},
+          {"no_nota":1286, "nm_barang":"baju", "harga":120000,"jumlah":3,"total":360000}
+      ]        
+   
+         
+  }

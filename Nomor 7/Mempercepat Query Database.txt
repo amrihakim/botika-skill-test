@@ -1,0 +1,8 @@
+1. Hindari mismatch tipe data untuk pengindeksan kolom
+2. Hindari fungsi pada kolom yang diindeks
+3. Menentukan kondisi pada WHERE bukan pada HAVING
+4. Penggunaan join untuk mengganti inner query
+5. Menentukan tabel dengan ukuran paling kecil, pada urutan terakhir pada query join.
+6. Mengganti NOT IN dengan NOT EXISTS
+7. Menggunkan FORALL sebagai pengganti FOR
+8. Penggunaan BULK COLLECT

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>RANDOM USER</h1>
+
+    <img id="picture"><br>
+
+    First Name : <span id="first-name"></span> <br> 
+    Last Name : <span id="last-name"></span> <br>
+    Gender : <span id="gender"></span> <br>
+    Date of Birth : <span id="dob"></span> <br>
+    Age : <span id="age"></span> <br>
+
+    <button onclick="getRandomUser()">Refresh</button>
+    <script src="api.js"></script>  
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            getRandomUser();
+        })
+    </script>
+</body>
+</html>
